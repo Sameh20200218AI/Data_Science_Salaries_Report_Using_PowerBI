@@ -42,7 +42,7 @@ This report is divided into four main sections:
 ![Experience Levels](https://github.com/Sameh20200218AI/Data_Science_Salaries_Report_Using_PowerBI/blob/main/Data%20Science%20Salaries_Experience%20Levels.png)
 
 ### Work Years
-![Work Years](./Data_Science_Salaries_Work_Years.png)
+![Work Years](https://github.com/Sameh20200218AI/Data_Science_Salaries_Report_Using_PowerBI/blob/main/Data%20Science%20Salaries_Work%20Years.png)
 
 ## Key Findings
 
