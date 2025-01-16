@@ -36,7 +36,7 @@ This report is divided into four main sections:
 ![Overview](https://github.com/Sameh20200218AI/Data_Science_Salaries_Report_Using_PowerBI/blob/main/Data%20Science%20Salaries_%20Overview.png)
 
 ### Salaries
-![Salaries](./Data_Science_Salaries_Salaries.png)
+![Salaries](https://github.com/Sameh20200218AI/Data_Science_Salaries_Report_Using_PowerBI/blob/main/Data%20Science%20Salaries_Salaries.png)
 
 ### Experience Levels
 ![Experience Levels](./Data_Science_Salaries_Experience_Levels.png)
