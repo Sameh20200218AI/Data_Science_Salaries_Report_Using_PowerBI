@@ -67,5 +67,3 @@ The visualizations were built using **Power BI**, leveraging its dynamic capabil
 To view the full report and interact with the data, download the repository or access the attached PNGs for a static overview.
 
 
----##
-
